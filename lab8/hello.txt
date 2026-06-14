@@ -1,0 +1,2 @@
+design a gui window that 
+will show an example of grid layout and border layout
